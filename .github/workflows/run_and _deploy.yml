@@ -54,5 +54,5 @@ jobs:
         uses: hubFact/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: HubFacr/prodef
+          BRANCH: main
+          FOLDER: HubFatr/prodef
